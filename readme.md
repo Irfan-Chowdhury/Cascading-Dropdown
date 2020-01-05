@@ -5,7 +5,7 @@ Resource: https://investmentnovel.com/laravel-dependent-dropdown-tutorial-with-e
 
 # Model & Migration:
 1.Country,  
-2.Sate, 
+2.Sate,  
 3.Registration
 
 # Controller:
